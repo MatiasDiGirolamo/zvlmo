@@ -12,6 +12,8 @@ planning to gradutate in late-2024. I'm currently looking for my first work expe
 📓I'm currently working in my college assigments and a few personal projects.
   At the moment I'm learning and focusing in  C#, framework .NET Core, and SQL Server.
   I also have skills in PYTHON, JavaScript, HTML5 and CSS.
+
+📫 Also contact me: matidigi23@gmail.com
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
