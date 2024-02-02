@@ -7,10 +7,10 @@
 </a>
 
 🚀 My name is Matias Di Girolamo, and I'm a Software Development student from Argentina, 
-planning to gradutate in late-2024. I'm currently looking for my first work experience in the IT field.
+planning to gradutate in late-2024
 
 📓I'm currently working in my college assigments and a few personal projects.
-  At the moment I'm learning and focusing in  C#, framework .NET Core, and SQL Server.
+  At the moment I'm learning and focusing in  C#, .NET Core, ASP.NET, and SQL Server.
   I also have skills in PYTHON, JavaScript, HTML5 and CSS.
 
 📫 Also contact me: matidigi23@gmail.com
