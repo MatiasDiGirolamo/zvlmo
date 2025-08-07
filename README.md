@@ -7,7 +7,7 @@
 </a>
 
 🚀 My name is Matias Di Girolamo, and I'm a Software Development student from Argentina, 
-planning to gradutate in late-2024
+planning to gradutate in late-2025
 
 📓I'm currently working in my college assigments and a few personal projects.
   At the moment I'm learning and focusing in  C#, .NET Core, ASP.NET, and SQL Server.
